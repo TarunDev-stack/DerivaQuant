@@ -175,10 +175,6 @@ The notebook contains the pricing implementations, calculations, simulation outp
 - Estimate implied volatility through numerical root-finding methods.
 - Evaluate potential portfolio losses using Monte Carlo simulation, VaR, and CVaR.
 
-## Acknowledgment
-
-This project is adapted from the existing [Options Pricing Engine repository](https://github.com/Harshall11/Options_Pricing_Engine). The original implementation and its authors retain their applicable rights. Please refer to the original repository's license and preserve any required notices. Clearly identify any modifications made in this version.
-
 ## Disclaimer
 
 This project is intended for educational and research purposes only. It does not constitute financial or investment advice.
